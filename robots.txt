@@ -3,3 +3,4 @@
 User-agent: *
 Disallow:
 # This line has been added to demonstrate the use of git pull command
+# This line has been added to demonstrate the use of "git push" command
